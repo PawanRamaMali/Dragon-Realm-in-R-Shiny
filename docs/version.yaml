@@ -1,3 +1,8 @@
+version : 1.2
+  features:
+    - Added server code
+    - working prototype
+    
 version : 1.1
   features:
     - Added base UI
