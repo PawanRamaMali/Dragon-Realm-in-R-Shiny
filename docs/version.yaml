@@ -1,3 +1,7 @@
+version : 1.1
+  features:
+    - Added base UI
+    
 version : 1.0
   features:
     - Added Flowchart
